@@ -3,7 +3,7 @@
 Proyek Akhir Dicoding Belajar Analisis Data dengan Python
 
 ## Link Aplikasi
-[RizalNR Streamlit App](https://rizalnr.streamlit.app/)
+[Ardi Streamlit App :](https://ardiansyahmmd.streamlit.app/)
 
 ## Setup 
 Gunakan perintah berikut untuk menginstal dependencies:
