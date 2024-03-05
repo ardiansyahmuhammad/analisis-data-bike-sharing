@@ -1,9 +1,10 @@
-# Proyek Analisis Data Bike Sharing
+# Proyek Analisis Data Bike Sharing Dataset
 
-Proyek Akhir Dicoding Belajar Analisis Data dengan Python
+***Proyek Akhir Data Analisis*** - Belajar Analisis Data dengan Python
+[Dicoding](https://www.dicoding.com/)
 
 ## Link Aplikasi
-[Ardi Streamlit App :](https://ardiansyahmmd.streamlit.app/)
+[ardiansyahmmd Streamlit App](https://ardiansyahmmd.streamlit.app/)
 
 ## Setup 
 Gunakan perintah berikut untuk menginstal dependencies:
