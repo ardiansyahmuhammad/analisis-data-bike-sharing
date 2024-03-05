@@ -87,7 +87,7 @@ def filter_data(all_bike_df, start_date, end_date):
 def setup_sidebar(min_date, max_date):
     with st.sidebar:
         st.image("https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/6767e76862f2cd5a4e2f0613e4f37f22/large.png")       
-        st.subheader('Informasi Rental Sepeda 2011 - 2013')
+        st.subheader('Informasi Rental Sepeda 2011 - 2012')
         selected_dates = st.date_input(
             label='Rentang Waktu', min_value=min_date,
             max_value=max_date,
