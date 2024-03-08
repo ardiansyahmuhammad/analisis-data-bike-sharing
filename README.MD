@@ -24,6 +24,6 @@ python -m streamlit run dashboard.py
 #### If you have technical issue with the path of dashboard or data all_bike_df.csv, try use this command instead :
 
 ```bash
-**streamlit** run dashboard/dashboard.py
+streamlit run dashboard/dashboard.py
 ```
 Make sure that dashboard in the right  directory
