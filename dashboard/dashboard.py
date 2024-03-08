@@ -8,7 +8,7 @@ sns.set(style='dark')
 
 def load_data_analysis():
     
-    all_bike_df = pd.read_csv('all_bike_df.csv')
+    all_bike_df = pd.read_csv('dashboard/all_bike_df.csv')
     
     days_category = {
         1: 'Hari Liburan',
